@@ -23,14 +23,8 @@ Currently, I’m improving my skills in advanced Django concepts, APIs, and auto
 
 ## GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <span style="border:2px solid #ffffff; padding:5px; border-radius:12px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=crestadev&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="500" />
-  </span>
-  <span style="border:2px solid #ffffff; padding:5px; border-radius:12px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crestadev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
-  </span>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crestadev&show_icons=true&theme=transparent) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crestadev&layout=compact&theme=transparent)
 
 <p align="center">
   <span style="border:2px solid #ffffff; padding:5px; border-radius:12px;">
