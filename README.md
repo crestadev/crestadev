@@ -23,14 +23,15 @@ Currently, I’m improving my skills in advanced Django concepts, APIs, and auto
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crestadev&show_icons=true&theme=transparent) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crestadev&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crestadev&show_icons=true&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crestadev&layout=compact&theme=transparent&hide_border=true&size_weight=1.2)
 
 <p align="center">
   <span style="border:2px solid #ffffff; padding:5px; border-radius:12px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=crestadev&theme=transparent&hide_border=true" alt="GitHub Streak" width="65%" />
   </span>
 </p>
+
 
 
 
