@@ -28,23 +28,6 @@ Currently, I’m improving my skills in advanced Django concepts, APIs, and auto
 
 ---
 
-## Projects
-<!-- PROJECTS_LIST:START -->
-
-- **News Portal** – A Django-based news website where users can read and categorize articles. Features user authentication and admin panel for content management.  
-  **Tech Stack:** Django, SQLite, Bootstrap  
-  [News_Portal Repo](https://github.com/crestadev/news-portal)
-
-- **Recipe List** – A web application to browse, add, and manage recipes. Users can search recipes by category and save favorites.  
-  **Tech Stack:** Django, SQLite, Bootstrap  
-  [Recipe_list Repo](https://github.com/crestadev/Recipe-list-django)
-
-- **Smart Data Discovery** – A tool for analyzing and discovering patterns in datasets, aimed at simplifying data exploration.  
-  **Tech Stack:** Python, Django, Pandas  
-  [Smart_Data_Discovery Repo](https://github.com/crestadev/Smart-Data-Dicovery)
-
-<!-- PROJECTS_LIST:END -->
-
 
 ## Contact
 - Email: [nameofdeev@gmail.com](mailto:nameofdeev@gmail.com)
