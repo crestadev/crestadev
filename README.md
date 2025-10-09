@@ -44,16 +44,12 @@ Currently, I’m improving my skills in advanced Django concepts, APIs, and auto
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=crestadev&theme=transparent&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
+    src="https://streak-stats.demolab.com?user=crestadev&theme=transparent&hide_border=false&ring=555555&fire=555555&currStreakLabel=555555" 
     alt="GitHub Streak" 
-    width="65%" 
-    style="border: 2px solid white; border-radius: 12px; padding: 5px;"
+    width="50%"
+    style="border: 2px solid #555555; border-radius: 10px; padding: 4px;"
   />
 </p>
-
-
-
-
 
 
 
