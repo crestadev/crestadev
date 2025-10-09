@@ -46,7 +46,7 @@ Currently, I’m improving my skills in advanced Django concepts, APIs, and auto
   <img 
     src="https://streak-stats.demolab.com?user=crestadev&theme=transparent&hide_border=false&ring=555555&fire=555555&currStreakLabel=555555" 
     alt="GitHub Streak" 
-    width="75%"
+    width="70%"
     />
 </p>
 
